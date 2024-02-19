@@ -1,0 +1,38 @@
+body {
+	font-family: "Marmelad", sans-serif;
+}
+
+header {
+	background-color: #e8e8e8;
+	height: 120px; /* Высота */
+	width: 100%; /* Ширина */
+}
+header img {
+	max-height: 100%;
+	max-width: 100%;
+	vertical-align: middle; /* Выравнивание по вертикали */
+	margin-right: 15px;
+}
+.header__content {
+	display: flex;
+	align-items: center; /* Выравнивание по вертикали */
+}
+.header__text {
+	color: #33637e;
+	font-size: 25px;
+	max-width: 258px;
+	font-family: "Marmelad", sans-serif;
+}
+
+h1 {
+	/* font-family: "Marmelad", sans-serif; */
+	font-size: 76px;
+	text-align: center;
+}
+p {
+	font-family: "Neucha", cursive;
+}
+
+.city__name {
+	/* font-family: "Marmelad", sans-serif; */
+}
